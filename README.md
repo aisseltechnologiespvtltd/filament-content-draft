@@ -5,7 +5,7 @@
 [![PHP Version](https://img.shields.io/badge/PHP-%5E8.2-777bb4.svg?style=flat-square)](https://php.net)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
-A robust, enterprise-grade auto-save and draft recovery plugin for **Filament 5.x**.
+A robust, enterprise-grade auto-save and draft recovery plugin for **Filament 5**.
 
 **Filament Content Draft** protects your users from lost work due to accidental tab closures, session timeouts, network blips, or sudden browser crashes. It silently auto-saves form input in the background and offers non-destructive recovery when returning to the form.
 
